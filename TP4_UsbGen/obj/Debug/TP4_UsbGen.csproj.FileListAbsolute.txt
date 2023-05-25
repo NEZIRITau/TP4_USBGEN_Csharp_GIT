@@ -1,0 +1,10 @@
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\bin\Debug\TP4_UsbGen.exe.config
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\bin\Debug\TP4_UsbGen.exe
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\bin\Debug\TP4_UsbGen.pdb
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.csprojAssemblyReference.cache
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.Form1.resources
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.Properties.Resources.resources
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.csproj.GenerateResource.cache
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.csproj.CoreCompileInputs.cache
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.exe
+C:\microchip\harmony\v2_06\apps\MINF\TP\TP4_UsbGen\TP4_UsbGen\TP4_UsbGen\obj\Debug\TP4_UsbGen.pdb
